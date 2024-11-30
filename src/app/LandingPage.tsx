@@ -1,5 +1,5 @@
 import React from "react";
-import Avatar from "../../public/avatar.png";
+import Avatar from "./assets/avatar.png";
 import { FaTelegram } from "react-icons/fa";
 import { FaX } from "react-icons/fa6";
 
