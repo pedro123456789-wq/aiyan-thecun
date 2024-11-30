@@ -61,16 +61,16 @@ const LandingPage: React.FC = () => {
               </a>
 
               <a
-                href="https://dexscreener.com/aiyan"
+                href="https://pump.fun/coin/j3MJ1XyyojAGdLtP4mTBhKSW8oJr5U3xgtHmW29mMQb"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn btn-secondary bg-gradient-to-r from-blue-500 to-green-500"
               >
-                Dex Screener
+                Pump Fun
               </a>
             </div>
 
-            <p>CA: </p>
+            {/* <p>CA: </p> */}
           </div>
 
           {/* Image Section */}
